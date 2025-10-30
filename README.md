@@ -228,7 +228,7 @@ int main() {
 
 ### ASSEM
 
-<rep>
+<pre>
 section .text
 global _start
 
@@ -238,4 +238,5 @@ _start:
 
 label:
     nop          ; RIP now points here
-</rep>
+
+</pre>

@@ -10,3 +10,10 @@
 | **RBP**    | Base pointer (used in stack frames)                              |
 | **RIP**    | Instruction pointer (holds address of the next instruction)      |
 | **R8–R15** | Additional general-purpose registers introduced in x86-64        |
+
+
+## RAX 
+
+### C
+
+### ASSEM

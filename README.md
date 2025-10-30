@@ -16,4 +16,17 @@
 
 ### C
 
+int main() {
+    return 2 + 3;
+}
+
 ### ASSEM
+
+
+section .text
+global _start
+
+_start:
+    mov rax, 2
+    add rax, 3
+    ; RAX = 5

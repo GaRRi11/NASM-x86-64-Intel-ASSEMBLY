@@ -238,5 +238,4 @@ _start:
 
 label:
     nop          ; RIP now points here
-
 </pre>
